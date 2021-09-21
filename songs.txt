@@ -1,0 +1,14 @@
+song1.mp3
+The Animals - House of the Rising Sun
+song2.mp3
+System Of A Down - Lonely Day 
+song3.mp3
+Led Zeppelin - Stairway To Heaven
+song4.mp3
+Scorpions - Send Me An Angel
+song5.mp3
+U2 - With Or Without You
+song6.mp3
+Ed Sheeran - Bad Habits
+song7.mp3
+Dennis Lloyd - The Way
