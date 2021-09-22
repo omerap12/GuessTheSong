@@ -1,8 +1,10 @@
 # GuessTheSong
 7 seconds of song, try to recognize it.  
+
+
 install first python3 and the following packages: 
-pip install wikipedia 
-pip install pygame  
+# pip install wikipedia 
+# pip install pygame  
 
 How to run it: 
 Download/Clone zip file. 
