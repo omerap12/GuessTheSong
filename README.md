@@ -5,6 +5,7 @@
 install first python3 and the following packages: 
 # pip install wikipedia 
 # pip install pygame  
+# pip install tkinter
 
 How to run it: 
 Download/Clone zip file. 
