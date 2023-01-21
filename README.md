@@ -1,21 +1,31 @@
+
 # GuessTheSong
-7 seconds of song, try to recognize it.  
+
+Reverse Shazam!\
+You get for each song only first 7 seconds of it, recognize the as many song as possible to get more points.
+## Installation
+
+Install my-project with pip.
+
+```bash
+  pip install wikipedia
+  pip install pygame
+```
+    
+## Running
+
+To run this game.
+
+```bash
+  cd GuessTheSong
+  python main.py
+```
 
 
-install first python3 and the following packages: 
-# pip install wikipedia 
-# pip install pygame  
+## Instructions
 
+You have only two hearts (life) and one save me button.\
+In case you recogize the song enter the song info in the following order:\
+Singer name - Song name.\
+For example: kings of leon - sex on fire
 
-How to run it: 
-Download/Clone zip file. 
-Extract. 
-Go to main.py directory. 
-In the command line type python main.py  
-
-Game instruction: you have 2 life and 1 save me button. 
-in case you recogize the song enter the song name in the specific order: Singer name - Song name. 
-for example: kings of leon - sex on fire .
-
-I'm using threading so please don't close program abruptly (lose or win the game). 
-Enjoy!
