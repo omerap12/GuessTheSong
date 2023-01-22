@@ -5,7 +5,7 @@ Reverse Shazam!\
 You get for each song only first 7 seconds of it, recognize the as many song as possible to get more points.
 ## Installation
 
-Install my-project with pip.
+Install GuessTheSong with pip.
 
 ```bash
   pip install wikipedia
